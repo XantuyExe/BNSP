@@ -75,7 +75,7 @@
   <footer class="mt-6">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="card bg-brand-card p-6 flex items-center justify-between">
-        <p class="text-sm text-brand-text/80">&copy; {{ date('Y') }} ArtCore</p>
+        <p class="text-sm text-brand-text/80">&copy; {{ date('Y') }} ArtCore | Rafi Surya Pratama | Telkon University | Sertifikasi BNSP</p>
         <div class="flex gap-2">
           <span class="w-3 h-3 rounded-full bg-brand-accent"></span>
           <span class="w-3 h-3 rounded-full bg-brand-card"></span>
