@@ -22,4 +22,4 @@
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53c3dfc6-3cab-44ee-b1c3-89a1501ab8c3" />
 
-<video controls src="Rekaman Demo ArtCore.mp4" title="Title"></video>
+<video controls src="https://drive.google.com/drive/folders/1nFvEmlLdg-ONc-d_bDF6PcvrcizboZTp?usp=drive_link" title="Title"></video>
