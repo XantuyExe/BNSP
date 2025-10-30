@@ -21,3 +21,5 @@
 - **Seeder Awal** – Data contoh admin, kategori, dan unit untuk memudahkan setup awal proyek.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53c3dfc6-3cab-44ee-b1c3-89a1501ab8c3" />
+
+<video controls src="Rekaman Demo ArtCore.mp4" title="Title"></video>
