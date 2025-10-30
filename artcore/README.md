@@ -1,4 +1,4 @@
-# ArtCore (Website Sewa & Beli Karya Seni Vintage)
+<img width="1121" height="590" alt="image" src="https://github.com/user-attachments/assets/275c87b3-3903-4946-81a0-6dd869d78229" /># ArtCore (Website Sewa & Beli Karya Seni Vintage)
 
 - **Team:** ArtCore  
 - **Project:** ArtCore (Website Sewa & Beli Karya Seni Vintage)  
@@ -22,4 +22,5 @@
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53c3dfc6-3cab-44ee-b1c3-89a1501ab8c3" />
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/drive/u/0/folders/1nFvEmlLdg-ONc-d_bDF6PcvrcizboZTp)
+[![Watch the video](<img width="1121" height="590" alt="image" src="https://github.com/user-attachments/assets/5700492f-9d4f-4e73-8b42-3e3621690981" />
+)](https://drive.google.com/drive/u/0/folders/1nFvEmlLdg-ONc-d_bDF6PcvrcizboZTp)
