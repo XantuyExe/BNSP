@@ -6,9 +6,8 @@ use App\Http\Controllers\Admin\{DashboardController, CategoryAdminController, Un
 use App\Http\Middleware\EnsureUserIsAdmin;
 
 
-Route::get('/', [HomeController::class, 'index'])->name('home');
-
 Route::middleware(['auth'])->group(function () {
+    Route::get('/', [HomeController::class, 'index'])->name('home');
     Route::get('/units', [UnitController::class, 'index'])->name('units.index');
     Route::get('/units/{unit}', [UnitController::class, 'show'])->name('units.show');
 
