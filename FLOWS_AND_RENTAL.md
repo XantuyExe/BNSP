@@ -1,16 +1,5 @@
 # ArtCore – User Flows & Rental Scheme
 
-## 1. Guest → User → Admin Flow
-
-### Guest Flow
-- **Landing Page** (`GET /`, `HomeController@index`, `resources/views/home.blade.php`)  
-  - Melihat hero, highlight, dan katalog paginasi (`units/_grid.blade.php`).  
-  - Akses filter → hasil tetap menampilkan unit tersedia.  
-  - Klik unit → diarahkan ke `route('login')` bila belum login.  
-- **Registrasi/Login** (`routes/auth.php`, `RegisteredUserController`, `AuthenticatedSessionController`)  
-  - Guest menekan **Daftar** atau **Login** dari navbar (`layouts/navigation.blade.php`).  
-  - Setelah sukses login, diarahkan ke beranda dengan nav khusus user.
-
 ### User Flow
 - **Dashboard User** (`resources/views/user/dashboard.blade.php`)  
   - Menampilkan ringkasan sewa aktif, shortcut ke profil/keranjang.  
