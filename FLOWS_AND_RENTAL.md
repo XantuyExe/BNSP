@@ -70,8 +70,3 @@
 - **Denda multi jenis** – Form admin untuk menambah `cleaning_fee` & `damage_fee` selain denda telat otomatis.  
 - **Export CSV** – Laporan sewa dapat diunduh untuk kebutuhan administrasi.  
 - **UI konsisten** – Input `brand-input` (hitam) untuk form admin/user agar sesuai desain tema ArtCore.
-
----
-
-Gunakan dokumen ini bersama `DOCS_PAGE_OVERVIEW.md` untuk mempresentasikan alur lengkap (guest → user → admin) dan segala aturan sewa yang diterapkan di aplikasi ArtCore.
-
