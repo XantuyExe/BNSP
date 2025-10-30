@@ -20,4 +20,7 @@
 - **Laporan & Ekspor** – Riwayat sewa lengkap dengan filter dan unduhan CSV untuk arsip/cetak.
 - **Seeder Awal** – Data contoh admin, kategori, dan unit untuk memudahkan setup awal proyek.
 
+[![LINK VIDEO DEMO WEBSITE ARTCORE](<img width="1121" height="590" alt="image" src="https://github.com/user-attachments/assets/5700492f-9d4f-4e73-8b42-3e3621690981" />
+)](https://drive.google.com/file/d/1HubQLW8OPqgq27lpMwz-O4zSA8JHzgC1/view?usp=drive_link)
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53c3dfc6-3cab-44ee-b1c3-89a1501ab8c3" />
