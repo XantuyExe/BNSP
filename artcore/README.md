@@ -1,5 +1,3 @@
-<img width="1121" height="590" alt="image" src="https://github.com/user-attachments/assets/275c87b3-3903-4946-81a0-6dd869d78229" /># ArtCore (Website Sewa & Beli Karya Seni Vintage)
-
 - **Team:** ArtCore  
 - **Project:** ArtCore (Website Sewa & Beli Karya Seni Vintage)  
 - **Teknologi:** PHP · Laravel · Tailwind CSS
